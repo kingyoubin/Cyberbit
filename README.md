@@ -1,2 +1,2 @@
-# Cyberbit
+
 Cyberbit Training
